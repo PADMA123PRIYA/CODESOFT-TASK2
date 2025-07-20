@@ -10,7 +10,21 @@ Used IMDb Movies India.csv
 
 Key features:
 
-Name, Year, Duration, Genre, Director, Actors, Votes, Rating
+Name
+
+Year
+
+Duration
+
+Genre
+
+Director
+
+Actors
+
+Votes
+
+Rating
 
 🔧 Data Preprocessing:
 
