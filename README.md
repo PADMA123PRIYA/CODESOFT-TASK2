@@ -1,4 +1,4 @@
-# CODESOFT-TASK2
+# CODSOFT-TASK2
 
 🎬 IMDb Movie Rating Prediction
 
